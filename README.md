@@ -18,7 +18,7 @@
 <img src=https://img.shields.io/badge/leetcode-%23050505.svg?&style=for-the-badge&logo=leetcode&logoColor=orange alt=leetcode style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/__shreya.mishra__" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23050505.svg?&style=for-the-badge&logo=instagram&logoColor=purple alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23050505.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <!--<a href="https://github.com/Mishra-Shreya?tab=followers">
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Mishra-Shreya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt=follow style="margin-bottom: 5px;"/>
