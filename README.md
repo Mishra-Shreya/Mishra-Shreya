@@ -1,10 +1,12 @@
 <!--### Hi there 👋/-->
-## Hey 👋, I'm Shreya Mishra!  
-  
-- 👩‍🎓 An undergraduate student
-- 👨‍💻 Android-Game-Web developer
-- 🔭 I’m currently working on [Sanket](https://github.com/Mishra-Shreya/Sanket)
-- 📫 Connect with me: 
+## Hey 👋, I'm Shreya Mishra! 
+
+- 👩‍🎓  An undergraduate student
+- </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> Android-Game-Web developer
+- 🔭  Currently working on [Sanket](https://github.com/Mishra-Shreya/Sanket)
+- 🔦 You have finally discovered my Github profile.
+- 🔖 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
+- 📫  Connect with me: 
 <a href="mailto:shreyamishra062001@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23050505.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" />
 </a>
@@ -34,7 +36,6 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="30" /></a> 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" /></a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="30" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="30" /></a>  
