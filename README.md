@@ -1,7 +1,7 @@
 <!--### Hi there 👋/-->
 ## Hey 👋, I'm Shreya Mishra!  
   
-- 👩‍🎓 A student
+- 👩‍🎓 An undergraduate student
 - 👨‍💻 Android/Game/Web developer
 - 🔭 I’m currently working on [Sanket](https://github.com/Mishra-Shreya/Sanket)
 - 📫 How to reach me: 
