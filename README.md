@@ -60,6 +60,10 @@
 
 </td></tr></table>  
 
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=Mishra-Shreya&&style=for-the-badge&color=FF1D80)
+
 <!--
 **Mishra-Shreya/Mishra-Shreya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
