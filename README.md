@@ -16,9 +16,9 @@
 <a href="https://linkedin.com/in/shreya-sanjay-mishra" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%23050505.svg?&style=for-the-badge&logo=linkedin&logoColor=blue alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/__shreya.mishra__" target="_blank">
+<!-- <a href="https://instagram.com/__shreya.mishra__" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23050505.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink alt=instagram style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <!--<a href="https://leetcode.com/mishra_shreya" target="_blank">
 <img src=https://img.shields.io/badge/leetcode-%23050505.svg?&style=for-the-badge&logo=leetcode&logoColor=orange alt=leetcode style="margin-bottom: 5px;" />
 </a>-->
