@@ -2,8 +2,8 @@
 ## Hey 👋, I'm Shreya Mishra! 
 
 - 👩‍🎓  !(an undergraduate student) anymore...😶‍🌫️
-- </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> Android-Game-Web Developer.
-- 🔭  Currently working _@ ORACLE_. <!--on [Sanket](https://github.com/Mishra-Shreya/Sanket)-->
+- 👩‍💻 Android-Game-Web Developer.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> Currently working _@ ORACLE_. <!--on [Sanket](https://github.com/Mishra-Shreya/Sanket) <img src="https://www.oracle.com/asset/web/favicons/favicon-192.png" width=12>-->
 - 🔦 You have finally discovered my Github profile.
 - 🔖 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 - 📫  Connect with me: 
