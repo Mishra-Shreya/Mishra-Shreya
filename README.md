@@ -10,7 +10,7 @@
 ---
 
 ## 💼 What I Do
-- **Product:** OBPM - Oracle Banking Payments product implementation for 4+ banks
+- **Product:** OBPM - Oracle Banking Payments
 - **Banking Domain:** NEFT, RTGS, IMPS  - Indian payment systems
 - **Transaction Volume:** Handling 2.5M+ daily transactions
 
