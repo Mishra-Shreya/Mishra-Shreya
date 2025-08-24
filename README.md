@@ -5,7 +5,7 @@
 - 👩‍🎓!(an undergard student) anymore...😶‍🌫️
 - 🎓 Electronics & Telecommunication Engineering
 - 👩‍💻 Android-Game-Web Developer.
-- 🌟 Star Performer @ Oracle | AWS AI & ML Scholar | SIH 2022 Finalist | Artist
+- 🌟 **Star Performer** @ Oracle | 👩‍🎓 **AWS AI & ML Scholar** | 🥈 **SIH 2022 Finalist** | 🎨 **Artist**
 
 ---
 
@@ -28,15 +28,6 @@
 
 ---
 
-## 🏆 Achievements
-- 🌟 **Star Performer** at Oracle
-- 🔧 **Resolved 10+ Go-Live blockers** across multiple banking sites
-- ⚡ **30% API performance improvement** through optimization
-- 💯 **100% uptime** during peak financial cycles
-- 🥈 **SIH 2022 Finalist** & **AWS AI/ML Scholar**
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -51,7 +42,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyamishra062001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-sanjay-mishra)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mishra-Shreya)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mishra_shreya)
 
 ---
 
